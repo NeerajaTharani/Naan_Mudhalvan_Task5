@@ -1,3 +1,5 @@
+![blog](https://github.com/NeerajaTharani/Naan_Mudhalvan_Task5/assets/90817823/a08fad4c-3463-416b-ad6c-b5439faa1f6b)
+
 This project is a mini version of a working blogging website. This project is done by using (MongoDB, Express.js, React.js, Node.js).
 
 #Features of this site:
@@ -12,12 +14,16 @@ This project is a mini version of a working blogging website. This project is do
 
 5.Have read more blogs section also.
 
+#Installation Guide.
+
+Once you forked this repo. Make sure to run npm install command inside the folder to install all the package.
+
 #Technologies Used
  
-Front-end: React.js, Redux (for state management), HTML5, CSS3
+1.Front-end: React.js, Redux (for state management), HTML5, CSS3
 
-Back-end: Node.js, Express.js
+2.Back-end: Node.js, Express.js
 
-Database: MongoDB
+3.Database: MongoDB
 
-Authentication: JSON Web Tokens (JWT)
+4.Authentication: JSON Web Tokens (JWT)
