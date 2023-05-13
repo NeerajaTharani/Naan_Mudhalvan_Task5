@@ -1,6 +1,6 @@
-This project is a mini version of a working blogging website. This project is done by using only HTML, CSS and JS. This is a react.js app. 
+This project is a mini version of a working blogging website. This project is done by using (MongoDB, Express.js, React.js, Node.js).
 
-##Features of this site:
+#Features of this site:
 
 1.Dynamic Blog pages.
 
@@ -12,6 +12,12 @@ This project is a mini version of a working blogging website. This project is do
 
 5.Have read more blogs section also.
 
-#####Installation Guide.
+#Technologies Used
+ 
+Front-end: React.js, Redux (for state management), HTML5, CSS3
 
-Once you forked this repo. Make sure to run npm install command inside the folder to install all the package.
+Back-end: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JSON Web Tokens (JWT)
