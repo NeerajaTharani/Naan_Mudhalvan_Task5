@@ -25,5 +25,3 @@ Once you forked this repo. Make sure to run npm install command inside the folde
 2.Back-end: Node.js, Express.js
 
 3.Database: MongoDB
-
-4.Authentication: JSON Web Tokens (JWT)
